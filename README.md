@@ -7,11 +7,11 @@ Daniel Enrique Hernández Stalhuth :shipit:
 - dehernands@eafit.edu.co  
 - hsdaniele95@gmail.com  
 
-Ricardo Ocampo Castro
+Ricardo Ocampo Castro :goat:
 - rocampo3@eafit.edu.co 
 - rocampocastro604@gmail.com  
 
-Alejandro Gil
+Alejandro Gil Maya :trollface:
 - ggilmay@eafit.edu.co 
 - lordbluebanana@gmail.com
 ______
