@@ -1,16 +1,17 @@
 # Proyecto 4 sobre Big Data con Spark
 
-### Integrantes: 
-- Daniel Hernandez
+### Autores
+El equipo está conformado por:
 
-dehernands@eafit.edu.co
-hsdaniele95@gmail.com
-  
-- Ricardo Ocampo
+Daniel Enrique Hernández Stalhuth
+- dehernands@eafit.edu.co  
+- hsdaniele95@gmail.com  
 
-rocampo3@eafit.edu.co
-  
-- Alejandro Gil
+Ricardo Ocampo Castro
+- rocampo3@eafit.edu.co 
+- rocampocastro604@gmail.com  
 
-ggilmay@eafit.edu.co
+Alejandro Gil
+- ggilmay@eafit.edu.co 
+- lordbluebanana@gmail.com
 ______
