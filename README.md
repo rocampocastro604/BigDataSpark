@@ -3,7 +3,7 @@
 ### Autores
 El equipo está conformado por:
 
-Daniel Enrique Hernández Stalhuth
+Daniel Enrique Hernández Stalhuth :shipit:
 - dehernands@eafit.edu.co  
 - hsdaniele95@gmail.com  
 
